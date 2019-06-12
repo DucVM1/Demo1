@@ -73,6 +73,11 @@ private string GetLangKeyFromRegistry()
             return regValue;
         }
 
+        public void printDemo()
+        {
+                return;
+        }
+
         /// <summary>
         /// Define the method of reading the System Language value from Region value
         /// </summary>
