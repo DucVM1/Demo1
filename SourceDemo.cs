@@ -75,6 +75,10 @@ private string GetLangKeyFromRegistry()
 
         public void printDemo()
         {
+                if(true)
+                {
+                        system.out.printf("Hello world");
+                }
                 return;
         }
 
